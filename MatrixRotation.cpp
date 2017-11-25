@@ -1,4 +1,3 @@
-//Ernest Majdalani, ID: 40021641
 //This programn rotates a matrix by 90 degrees by transposing it then swapping its elements
 #include <iostream>
 #include <array>
