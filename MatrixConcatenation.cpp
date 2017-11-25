@@ -1,4 +1,3 @@
-//Ernest Majdalani, ID: 40021641
 // This program concatenates two NxN matrices to generate a Nx2N matrix
 
 #include <iostream>
